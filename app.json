@@ -8,10 +8,12 @@
   "env": {
         "API_KEY": {
             "description": "Go to BotFather bot in telegram https://telegram.me/BotFather and create a bot to get the api key",
+            "value": "1744080521:AAFzGDsClAAz-tqONue4SKH4s3eZZ07yGiE",
             "required": true
         },
         "CHAT_ID": {
             "description": "Go to chat_id_echo bot and get your chat id",
+            "value": 1214546863,
             "required": true
         }
   },
