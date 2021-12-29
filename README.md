@@ -1,7 +1,5 @@
 # Reconator
 Automated Recon for Pentesting 
 
-## Features
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vanakkam-nanba/tester)
 
-<li> Database support permanent storage
-<li> Fast scan and Free
