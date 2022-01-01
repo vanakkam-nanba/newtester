@@ -9,7 +9,7 @@ printf "\n\n" >> /app/results/$url-output.txt
 /app/modules/binaries/gospider -t 150 -s http://$url -d 4 | grep "\[url\]" | cut -d " " -f 5 | egrep -v '(.pdf|.css|.png|.jpeg|.jpg|.svg|.gif|.wolf)' | tee -a /app/urls
 /app/modules/binaries/hakrawler -plain -url http://$url -depth 4 | egrep -v '(.pdf|.css|.png|.jpeg|.jpg|.svg|.gif|.wolf)' | tee -a /app/urls
 
-cat /app/urls | qsreplace -a | tee /app/final_urls
+cat /app/urls | /app/modules/binaries/qsreplace -a | tee /app/final_urls
 
 printf "Gathered all urls for the $url successfully !" >> /app/results/$url-output.txt
 
