@@ -2,8 +2,6 @@
 Documentation for Reconator
 -->
 
-<img src="" alt="reconator_logo"></img>
-
 <h1 align="center">
   <br>
   <a href="https://github.com/gokulapap/Reconator">
