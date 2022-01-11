@@ -8,7 +8,7 @@ Documentation for Reconator
   <img src="https://oshi.at/rLPd/reconator.png" alt="reconator">
   </a>
   <br>
-  	<p align="right"> - By Gokul</p>
+  	<h3>By Gokul</h3>
   <br>
 </h1>
 
