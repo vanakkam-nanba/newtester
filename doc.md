@@ -7,8 +7,8 @@ Documentation for Reconator
   <a href="https://github.com/gokulapap/Reconator">
   <img src="https://oshi.at/rLPd/reconator.png" alt="reconator">
   </a>
-  <br>
-  Reconator - By Gokul
+  <br><br>
+  By Gokul AP
   <br>
 </h1>
 
