@@ -61,12 +61,6 @@ os.system(f"bash modules/shcheck.sh {url}")
 #15_wappalyzer_cli
 os.system(f"bash modules/wappy.sh {url}")
 
-#16_urls_gather
-os.system(f"bash modules/gather_urls.sh {url}")
-
-#17_seperating_with_gf_patterns
-os.system(f"bash modules/gf_patterns.sh {url}")
-
 #18
 
 ###########################################################
