@@ -16,6 +16,8 @@ printf "\n\n" >> /app/results/$url-output.txt
 sort /app/sub1 /app/sub2 /app/sub3 /app/sub4 | uniq | tee /app/$url-subs
 sort /app/sub1 /app/sub2 /app/sub3 /app/sub4 | uniq | tee -a /app/results/$url-output.txt
 
+if [[ $(cat /app/results/$url-output.txt | wc -l) -gt 1000 ]];  then cat /app/results/$url-output.txt | head -n 1000 | tee /app/results/$url-output.txt ; fi
+
 printf "\n\n\n" >> /app/results/$url-output.txt
 printf "##########################################################################################\n" >> /app/results/$url-output.txt
 printf "##########################################################################################" >> /app/results/$url-output.txt
