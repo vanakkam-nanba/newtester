@@ -55,9 +55,10 @@ Reconator receives all the targets needs to be reconed via a Web Interface and a
 
 # Helping hands 🤝
   
- #### <a href="https://github.com/jopraveen">Jopraveen</a> (Video Editing & FrontEnd)
- #### <a href="https://github.com/venom33cm">Yashwant</a> (FrontEnd)
- #### <a href="https://github.com/0xGodson">Godson</a> (Script Searching)
+ <a href="https://github.com/jopraveen">Jopraveen</a> (Video Editing & FrontEnd)
+ <a href="https://github.com/venom33cm">Yashwant</a> (FrontEnd design)
+ <a href="https://github.com/santhasarooban">Santroo</a> (FrontEnd design)
+ <a href="https://github.com/0xGodson">Godson</a> (Script Searching)
   
 # Disclaimer
 Usage of this program for attacking targets without consent is illegal. It is the user's responsibility to obey all applicable laws. The developer assumes no liability and is not responsible for any misuse or damage caused by this program. Please use responsibly.
