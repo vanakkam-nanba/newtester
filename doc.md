@@ -53,7 +53,7 @@ Reconator receives all the targets needs to be reconed via a Web Interface and a
  
 | path | Description |
 |------|-------------|
-| / | Root page where you will add targets  |
+| (/) home | Root page where you will add targets  |
 | /initialise | Initialise the Database and the conjob |
 | /queue | The targets added will be in the queue can manage targets |
 | /scanned | It contains list of all scanned targets can view results by results |
@@ -122,13 +122,7 @@ Reconator receives all the targets needs to be reconed via a Web Interface and a
 - Wordlist generation
 - Passwords dictionary creation ([pydictor](https://github.com/LandGrey/pydictor))
 
-## Extras
-- Multithread ([Interlace](https://github.com/codingo/Interlace))
-- Custom resolvers generated list ([dnsvalidator](https://github.com/vortexau/dnsvalidator))
-- Docker container included and [DockerHub](https://hub.docker.com/r/six2dez/reconftw) integration
-- Allows IP/CIDR as target
-- Resume the scan from last performed step
-- Custom output folder option
+<hr> 
   
 ## Helping hands 🤝
 
