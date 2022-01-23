@@ -43,24 +43,37 @@ It also performs various vulnerability checks like XSS, Open Redirects, SSRF, CR
 Reconator receives all the targets needs to be reconed via a Web Interface and adds into the Queue and Notifies via Telebot on start and end of Recon on a target. So this is 100% automated and don't require any manual interaction
 
 
-# Deploy
+## Deploy
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gokulapap/reconator)
 
-# Features
+## Features
 
 <li> Database support permanent storage
 <li> Fast scan and 100% Free
 <li> Notification support via Telegram bot
-
-# Helping hands 🤝
+<li> More...
   
+## Helping hands 🤝
+
  - <a href="https://github.com/jopraveen">Jopraveen</a> (Video Editing & FrontEnd)
  - <a href="https://github.com/santhasarooban">Santroo</a> (FrontEnd design)
  - <a href="https://github.com/0xGodson">Godson</a> (Script Searching)
  - <a href="https://github.com/venom33cm">Yashwant</a> (FrontEnd design)
   
-# Disclaimer
+## How to contribute:
+ 
+If you want to contribute to this project then:
+- Submitting an [issue](https://github.com/gokulapap/Reconator/issues/new/choose) because you have found a bug or you have any suggestion or request.
+- Submitting a feature request in this Form [form](https://forms.gle/VaZ9e4QTBxhjk2At7)
+ 
+## Need help? :information_source:
+ 
+- Take a look at the [wiki](https://github.com/six2dez/reconftw/wiki) section.  
+- Check [FAQ](https://github.com/six2dez/reconftw/wiki/7.-FAQs) for commonly asked questions.  
+- Ask for help in the [Telegram group](https://t.me/joinchat/TO_R8NYFhhbmI5co)
+  
+## Disclaimer
 Usage of this program for attacking targets without consent is illegal. It is the user's responsibility to obey all applicable laws. The developer assumes no liability and is not responsible for any misuse or damage caused by this program. Please use responsibly.
 
 The material contained in this repository is licensed under GNU GPLv3.
