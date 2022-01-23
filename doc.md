@@ -53,7 +53,12 @@ Reconator receives all the targets needs to be reconed via a Web Interface and a
 <li> Fast scan and 100% Free
 <li> Notification support via Telegram bot
 
-
+# Helping hands 🤝
+  
+ ### <a href="https://github.com/jopraveen">Jopraveen</a>
+ ### <a href="https://github.com/venom33cm">Yashwant</a>
+  <a href="https://github.com/0xGodson">Godson</a>
+  
 # Disclaimer
 Usage of this program for attacking targets without consent is illegal. It is the user's responsibility to obey all applicable laws. The developer assumes no liability and is not responsible for any misuse or damage caused by this program. Please use responsibly.
 
