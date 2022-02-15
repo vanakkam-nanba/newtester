@@ -41,7 +41,7 @@ os.system(f"bash modules/subdomains.sh {url}")
 os.system(f"bash modules/dirb.sh {url}")
 
 #9_js+link_finder
-os.system(f"bash modules/js-finder.sh {url}")
+#os.system(f"bash modules/js-finder.sh {url}")
 
 #10_subdomain_takeover
 os.system(f"bash modules/subtake.sh {url}")
@@ -62,10 +62,10 @@ os.system(f"bash modules/shcheck.sh {url}")
 os.system(f"bash modules/wappy.sh {url}")
 
 #16_urls_gather
-#os.system(f"bash modules/gather_urls.sh {url}")
+os.system(f"bash modules/gather_urls.sh {url}")
 
 #17_seperating_with_gf_patterns
-#os.system(f"bash modules/gf_patterns.sh {url}")
+os.system(f"bash modules/gf_patterns.sh {url}")
 
 
 
