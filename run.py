@@ -65,7 +65,7 @@ os.system(f"bash modules/wappy.sh {url}")
 #os.system(f"bash modules/gather_urls.sh {url}")
 
 #17_seperating_with_gf_patterns
-os.system(f"bash modules/gf_patterns.sh {url}")
+#os.system(f"bash modules/gf_patterns.sh {url}")
 
 
 
