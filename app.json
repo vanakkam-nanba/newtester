@@ -1,6 +1,7 @@
 {
   "name" : "Reconator",
   "description": "An Automated Recon Framework",
+  "logo": "https://user-images.githubusercontent.com/57899332/154803341-0eb5acc8-9b49-49df-a553-8c99f274ed3d.png",
   "repository": "https://github.com/gokulapap/Reconator",
   "keywords": ["python", "recon", "automation"],
   "website": "https://t.me/phaticusthiccy",
